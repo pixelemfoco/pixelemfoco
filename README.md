@@ -17,3 +17,21 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loboinfogames&show_icons=true&locale=en" alt="loboinfogames" /></p>
 
+# Olá, eu sou o Matheus Lobo 👋
+
+💼 Profissional de TI com +15 anos de experiência  
+👨‍🏫 Professor de informática e desenvolvedor  
+🌐 Portfólio: [proflobo.com.br](https://proflobo.com.br)  
+📧 Contato: matheus.v.lobo@gmail.com  
+
+## 🛠️ Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 📈 GitHub Stats
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusvlobo&show_icons=true&theme=dark)
+
+## 📫 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusvlobo)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/matheusvlobo)
