@@ -2,7 +2,7 @@
 <h3 align="center">Programador Fullstack e Professor brasileiro 🇧🇷</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loboinfogames&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Perfil visualizações" />
+  <img src="https://komarev.com/ghpvc/?username=pixelemfoco&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="Perfil visualizações" />
 </p>
 
 ---
@@ -22,10 +22,10 @@
   <a href="https://linkedin.com/in/lobom91" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/lobomprof" target="_blank">
+  <a href="https://instagram.com/pixelemfocooficial" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/loboinfogames" target="_blank">
+  <a href="https://www.youtube.com/c/pixelemfoco" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
@@ -62,5 +62,5 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusvlobo&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelemfoco&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
